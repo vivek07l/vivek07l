@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vivek07l
 - 👀 I’m interested in Web and software development
-- 🌱 I’m currently learning Javascript and Java
+- 🌱 I’m currently learning django and react
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email - vivekmandal746@gmail.com
 
