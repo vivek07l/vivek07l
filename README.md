@@ -1,10 +1,35 @@
-- 👋 Hi, I’m @vivek07l
-- 👀 I’m interested in Web and software development
-- 🌱 I’m currently learning django and react
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me email - vivekmandal746@gmail.com
+# 👋 Hi, I’m Vivek
 
-<!---
-vivek07l/vivek07l is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 BCA student focused on Cybersecurity, Networking, Systems, and Python Automation.
+
+🔐 I’m interested in:
+
+* Cybersecurity & Ethical Hacking
+* Networking & Socket Programming
+* Linux & System Internals
+* OSINT & Security Research
+* AI/ML for Cybersecurity
+
+🌱 I’m currently learning:
+
+* Linux & Networking Fundamentals
+* Wireshark & Traffic Analysis
+* TCP/IP & Socket Programming
+* Python Automation for Security
+* Web Security & Pentesting Fundamentals
+
+🛠️ Currently building:
+
+* Networking & Socket Programming Projects
+* Cybersecurity Learning Labs
+* Security Automation Tools
+
+🚀 Long-term goals:
+
+* Advanced Penetration Testing
+* Security Research
+* AI-powered Cybersecurity Projects
+* Building impactful cybersecurity tools
+
+📫 Reach me:
+Email: [vivekmandal746@gmail.com](mailto:vivekmandal746@gmail.com)
